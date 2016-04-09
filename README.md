@@ -1,4 +1,4 @@
 ra
 ==
 
-The freestyle processor architecute for university practise
+VHDL Stuff for University practice
